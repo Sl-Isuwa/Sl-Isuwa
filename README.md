@@ -1,6 +1,6 @@
 # Hey There! <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="70px"> I am Isuru Udara ...
 
-<img src="https://telegra.ph/file/c1a8ac4c85742553c84b0.jpg" style="max-width:100%;">
+<img src="https://telegra.ph/file/5e9a6314f28a33dfb6f9c.jpg" style="max-width:100%;">
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/

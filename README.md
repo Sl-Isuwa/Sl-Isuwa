@@ -73,7 +73,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-| <a href="https://github.com/Sl-Isuwa"><img src="https://telegra.ph/file/c1a8ac4c85742553c84b0.jpg" width="150px" height="150px" /></a> |
+| <a href="https://github.com/Sl-Isuwa"><img src="https://telegra.ph/file/5e9a6314f28a33dfb6f9c.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **Isuru Udara**
 
